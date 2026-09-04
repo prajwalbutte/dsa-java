@@ -3,7 +3,7 @@ package Arrays;
 public class ReverseArrayTwoPointer {
     public static void main(String[] args) {
         
-        int[] arr = {6,8,1,2,4,9};
+        int[] arr = {6,8,1,2,4,5};
         int n = arr.length;
 
         int i = 0;
