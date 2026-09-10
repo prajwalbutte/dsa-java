@@ -2,7 +2,7 @@ package Sorting;
 
 public class BubbleSortBetter {
     public static void main(String[] args) {
-        int [] arr = {1,2,3,4,5};
+        int [] arr = {5,3,4,2,1};
 
         int n = arr.length;
 
